@@ -2,7 +2,7 @@
 
 **Overview:**
 
-`initrd Editor` is a bash script designed to modify the contents of an initrd (initial ramdisk) file used in Linux systems. The script accepts a single positional variable, which can be either a relative or absolute path to the target initrd file. It provides a convenient way to manipulate the initrd contents for various purposes.
+**initrd Editor**is a bash script designed to modify the contents of an initrd (initial ramdisk) file used in Linux systems. The script accepts a single positional variable, which can be either a relative or absolute path to the target initrd file. It provides a convenient way to manipulate the initrd contents for various purposes.
 
 **Usage:**
 
