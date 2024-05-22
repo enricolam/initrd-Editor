@@ -35,4 +35,4 @@ $ ./initrdEdit.sh /path/to/initrd.img
 
 - This script is provided as-is without any warranty. Users are responsible for understanding the implications of modifying initrd files and should use it with caution.
 
-For more information and updates, please visit the [GitHub repository](https://github.com/enricolam/initrd-Editor) for `initrdEdit.sh`.
+For more information and updates, please visit the [GitHub repository](https://github.com/enricolam/initrd-Editor) for `initrd Editor`.
